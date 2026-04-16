@@ -62,7 +62,7 @@ lightbox.addEventListener("click", (e) => {
 
 // FAQ
 const faqs = [
-    { q: "Qual é o pedido mínimo?", a: "Trabalhamos com pedidos a partir de 100 unidades por referência, dependendo do produto e complexidade." },
+    { q: "Qual é o pedido mínimo?", a: "Trabalhamos com pedidos a partir de 1000 unidades por referência, dependendo do produto e complexidade." },
     { q: "Vocês produzem com a minha marca?", a: "Sim, desenvolvemos acessórios personalizados com logotipo e acabamentos exclusivos." },
     { q: "Como solicito uma amostra?", a: "Preencha o formulário de cotação ou fale pelo WhatsApp. Enviamos amostra para aprovação." },
     { q: "Qual o prazo de entrega?", a: "Em média 12 a 20 dias úteis após aprovação da amostra, conforme volume." }
